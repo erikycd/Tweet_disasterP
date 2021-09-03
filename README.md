@@ -6,4 +6,4 @@ This guide reveals an approach based on Machine Learning (ML) that combines the 
 
 Dataset: [NLP prediction of Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview)
 
-Code: [Colab notebook](Twitter prediction_LSTM.ipynb)
+Code: [Colab notebook](Twitter_prediction_LSTM.ipynb)
